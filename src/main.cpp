@@ -409,11 +409,11 @@ int main() {
 					pts_d.push_back(2+4*paths[iPath].lane);
 				}
 
-				//if(po){
+				if(po){
 					for(unsigned int iS = 0; iS < pts_s.size(); iS++){
 						cout << "SplineIn (" << iS <<  ") Out: s: " << pts_s[iS] << " (" << pts_s[iS]-car_s << "), d: " << pts_d[iS] << " (" << pts_d[iS]-car_d << ")" << endl;
 					}
-				//}
+				}
 
 
 				// Create a spline

@@ -1,3 +1,5 @@
+Go to [WriteUp.md](WriteUp.md) for a description of my submission.
+
 # CarND-Path-Planning-Project
 Self-Driving Car Engineer Nanodegree Program
    
